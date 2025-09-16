@@ -1,3 +1,8 @@
+Java Pong Game
+Built a classic Pong clone in Java to practice real-time rendering, game logic, and user input.
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
